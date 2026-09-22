@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.azib1779_commits.twa",
+      "sha256_cert_fingerprints": [
+        "E6:8E:1D:08:F8:88:95:CB:E1:69:FB:F9:97:A9:D7:27:32:81:B8:10:93:1D:9E:10:8B:E2:77:2C:C6:73:12:9A"
+      ]
+    }
+  }
+]
